@@ -1,6 +1,9 @@
 - 👋 Hi, I’m LaurenceAyo
-- 👀 I’m interested in sports like basketball and pool
-- 🌱 I’m currently learning Web Design and JS
+- I'm a Front-end Developer / Designer
+- I specialize in C , C++, C# , Java 
+- I Do Web Development
+- 👀 I’m interested in games like basketball and billiards when not coding
+- 🌱 I’m currently learning App Development (Flutter and Dart)
 
 <!---
 LaurenceAyo/LaurenceAyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
