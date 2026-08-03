@@ -1,10 +1,10 @@
-- 👋 Hi, I’m LaurenceAyo
-- I'm a Front-end Developer / Designer and specializes in Web Design
-- I specialize in C , C++, C# , Java , React Native
-- 👀 I’m interested in games like basketball and billiards when not coding
-- 🌱 I’m currently learning App Development (Flutter and Dart)
+- 👋 Hi, call me Rence
+- I'm a Front-end , Full stack Web Developer
+- I specialize in Laravel , ReactJs, and NodeJs 
+- 🌱 I’m currently learning App Development (Flutter and Dart) and AI, API integration 
 
-- Need a programming solution? let's connect laurenceayo7@gmail.com
+- Always wanted a dream website to cater your business needs or simply a personal project that needs IT solution? let's chat!
+- Reach me at laurenceayo7@gmail.com | llga2022@bicol-u.edu.ph
 
 <!---
 LaurenceAyo/LaurenceAyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
